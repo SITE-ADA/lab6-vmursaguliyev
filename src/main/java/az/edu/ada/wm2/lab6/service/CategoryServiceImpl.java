@@ -19,7 +19,7 @@ public class CategoryServiceImpl implements CategoryService {
     private final CategoryRepository categoryRepository;
     private final ProductRepository productRepository;
     private final ProductMapper productMapper;
-.// salam
+
     public CategoryServiceImpl(CategoryRepository categoryRepository,
                                ProductRepository productRepository,
                                ProductMapper productMapper) {
